@@ -1,3 +1,7 @@
+CREATE DATABASE banco_modelo01;
+
+USE banco_modelo01;
+
 CREATE TABLE departamento (
     sigla_depto VARCHAR(15),
     nome_depto VARCHAR(50),
